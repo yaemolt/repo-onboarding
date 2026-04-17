@@ -1,0 +1,4 @@
+interface:
+  display_name: "Repo Onboarding"
+  short_description: "Learn a codebase through guided study flows"
+  default_prompt: "Use $repo-onboarding to analyze this repository and teach it step by step from architecture to functions."
